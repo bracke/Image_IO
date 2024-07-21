@@ -1,4 +1,6 @@
 # Image_IO
+[![Alire](https://img.shields.io/endpoint?url=https://alire.ada.dev/badges/image_io.json)](https://alire.ada.dev/crates/image_io.html)
+
 Output in BMP, PPM, and QOI formats; input in BMP, GIF, JPG, PNG, PNM, QOI, and TGA formats
 
 Package Image_IO.Operations provides the ability to input and output images.
