@@ -1,6 +1,6 @@
 name = "image_io"
 description = "Output in BMP,PPM,QOI;input in BMP,GIF,JPG,PNG,PNM,QOI,TGA"
-version = "20240601"
+version = "20240602"
 
 authors = ["Jeff Carter "]
 maintainers = ["Bent Bracke <bent@bracke.dk>"]
