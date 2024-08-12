@@ -24,5 +24,4 @@ project Image_IO is
    package Install is
       for Artifacts (".") use ("share");
    end Install;
-
 end Image_IO;
